@@ -1,3 +1,0 @@
-# PREVIEW BUILD - not for indexing
-User-agent: *
-Disallow: /
